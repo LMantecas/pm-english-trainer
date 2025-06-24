@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "PMEnglishTrainer",
   "resources": {
-    "hash": "sha256-opZpQ7A46lm7RMc+41pUTv0SeH3rzqqBd5SvI+xj13g=",
+    "hash": "sha256-uckrgYy4afi8ym00yLjdJLaLQBtIBe2jd82ZNeaRXsg=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-YyxJV6dv935qHoQAmjB+2qRjHeGpm4SyWxE0T/KvsIE="
     },
@@ -43,7 +43,7 @@
       "System.Text.Json.wasm": "sha256-shOqGRipaULUkqhrjt0k2ZjqzEDWpnGFXy/gAhsWH4g=",
       "System.Text.RegularExpressions.wasm": "sha256-hGZleNEZV17Dz5kzEWFvNqnurwCDj1PZ9QMtVOHwaI0=",
       "System.Private.CoreLib.wasm": "sha256-yirh5sajuGoECNz+sNYTSOoPa5GdD+tcnJnLbSpQ74M=",
-      "PMEnglishTrainer.wasm": "sha256-0ZJQkn0Nk/elh1JlW71vbF0yZOjbT8uPVECd9mKlyc8="
+      "PMEnglishTrainer.wasm": "sha256-c2j+D5jo7+PmmG77SCIPpi6L+xut/JawAnjNVmMVgok="
     }
   },
   "cacheBootResources": true,

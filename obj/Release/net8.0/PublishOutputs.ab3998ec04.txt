@@ -1,0 +1,6 @@
+/Users/pedro/Desktop/PMEnglishTrainer_UI_Week1_Week2/render-dist/docs/manifest.json
+/Users/pedro/Desktop/PMEnglishTrainer_UI_Week1_Week2/render-dist/docs/wwwroot/pm-english-trainer/_framework/blazor.boot.json
+/Users/pedro/Desktop/PMEnglishTrainer_UI_Week1_Week2/render-dist/docs/wwwroot/_framework/blazor.boot.json
+/Users/pedro/Desktop/PMEnglishTrainer_UI_Week1_Week2/render-dist/docs/_framework/blazor.boot.json
+/Users/pedro/Desktop/PMEnglishTrainer_UI_Week1_Week2/render-dist/emcc-props.json
+/Users/pedro/Desktop/PMEnglishTrainer_UI_Week1_Week2/render-dist/web.config

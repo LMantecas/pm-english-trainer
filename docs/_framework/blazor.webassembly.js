@@ -1,1 +1,1 @@
-// Blazor WASM framework JS
+// Blazor runtime simulado

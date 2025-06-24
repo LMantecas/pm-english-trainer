@@ -1,1 +1,1 @@
-// Service worker stub
+// Service worker para Blazor

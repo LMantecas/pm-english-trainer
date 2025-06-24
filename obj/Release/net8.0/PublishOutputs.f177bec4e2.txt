@@ -1,5 +1,14 @@
+/Users/pedro/Desktop/PMEnglishTrainer_UI_Week1_Week2/bin/Release/net8.0/publish/render-dist/web.config
 /Users/pedro/Desktop/PMEnglishTrainer_UI_Week1_Week2/bin/Release/net8.0/publish/docs/manifest.json
+/Users/pedro/Desktop/PMEnglishTrainer_UI_Week1_Week2/bin/Release/net8.0/publish/docs/wwwroot/pm-english-trainer/_framework/blazor.boot.json
 /Users/pedro/Desktop/PMEnglishTrainer_UI_Week1_Week2/bin/Release/net8.0/publish/docs/wwwroot/_framework/blazor.boot.json
 /Users/pedro/Desktop/PMEnglishTrainer_UI_Week1_Week2/bin/Release/net8.0/publish/docs/_framework/blazor.boot.json
+/Users/pedro/Desktop/PMEnglishTrainer_UI_Week1_Week2/bin/Release/net8.0/publish/render-dist/docs/manifest.json
+/Users/pedro/Desktop/PMEnglishTrainer_UI_Week1_Week2/bin/Release/net8.0/publish/render-dist/docs/wwwroot/pm-english-trainer/_framework/blazor.boot.json
+/Users/pedro/Desktop/PMEnglishTrainer_UI_Week1_Week2/bin/Release/net8.0/publish/render-dist/docs/wwwroot/_framework/blazor.boot.json
+/Users/pedro/Desktop/PMEnglishTrainer_UI_Week1_Week2/bin/Release/net8.0/publish/render-dist/docs/_framework/blazor.boot.json
+/Users/pedro/Desktop/PMEnglishTrainer_UI_Week1_Week2/bin/Release/net8.0/publish/render-dist/emcc-props.json
+/Users/pedro/Desktop/PMEnglishTrainer_UI_Week1_Week2/bin/Release/net8.0/publish/render-dist/PMEnglishTrainer.staticwebassets.endpoints.json
+/Users/pedro/Desktop/PMEnglishTrainer_UI_Week1_Week2/bin/Release/net8.0/publish/render-dist/wwwroot/_framework/blazor.boot.json
 /Users/pedro/Desktop/PMEnglishTrainer_UI_Week1_Week2/bin/Release/net8.0/publish/emcc-props.json
 /Users/pedro/Desktop/PMEnglishTrainer_UI_Week1_Week2/bin/Release/net8.0/publish/web.config

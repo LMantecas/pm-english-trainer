@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PMEnglishTrainer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bb2fb04855f91b92c2e62f7820b52ae3f06a322")]
 [assembly: System.Reflection.AssemblyProductAttribute("PMEnglishTrainer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PMEnglishTrainer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

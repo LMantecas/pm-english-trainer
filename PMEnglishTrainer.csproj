@@ -1,10 +1,29 @@
 <Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
+
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>PMEnglishTrainer</RootNamespace>
+
+    <!-- IMPORTANTE para que se genere correctamente en /docs -->
+    <OutputPath>render-dist/</OutputPath>
+
+    <!-- Para GitHub Pages -->
+    <StaticWebAssetBasePath>pm-english-trainer</StaticWebAssetBasePath>
+
+    <!-- Mejora de rendimiento y compatibilidad -->
+    <BlazorWebAssemblyEnableLinking>true</BlazorWebAssemblyEnableLinking>
+    <BlazorEnableCompression>true</BlazorEnableCompression>
+    <BlazorCacheBootResources>true</BlazorCacheBootResources>
+    <BlazorWebAssemblyLoadAllGlobalizationData>true</BlazorWebAssemblyLoadAllGlobalizationData>
   </PropertyGroup>
+
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="8.0.0" />
-    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="8.0.0" PrivateAssets="all" />
+    <ServiceWorker Include="wwwroot/service-worker.js" />
+    <ServiceWorkerAssetsManifest Include="wwwroot/service-worker-assets.js" />
   </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="8.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="8.0.6" />
+  </ItemGroup>
+
 </Project>

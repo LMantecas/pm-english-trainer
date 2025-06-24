@@ -1,0 +1,2 @@
+/Users/pedro/Desktop/PMEnglishTrainer_UI_Week1_Week2/bin/Release/net8.0/publish/emcc-props.json
+/Users/pedro/Desktop/PMEnglishTrainer_UI_Week1_Week2/bin/Release/net8.0/publish/web.config

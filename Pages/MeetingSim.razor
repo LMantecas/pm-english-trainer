@@ -1,0 +1,16 @@
+@page "/MeetingSim"
+<h2>💼 Meeting Simulator - Week 1</h2>
+<p>Complete: "Let's schedule a ___ for Monday."</p>
+<input @bind="input" placeholder="Your answer..." />
+<button @onclick="Check">Check</button>
+<p>@result</p>
+
+@code {
+  string input = "";
+  string result = "";
+
+  void Check()
+  {
+    result = input.ToLower() == "meeting" ? "✅ Correct!" : "❌ It's 'meeting'";
+  }
+}

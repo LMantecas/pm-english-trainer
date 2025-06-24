@@ -1,0 +1,15 @@
+@page "/Week1"
+<h2>📖 Week 1 - Present Simple</h2>
+<p>Complete the sentence: "She ___ every day at 8 AM."</p>
+<input @bind="answer" placeholder="Type your answer..." />
+<button @onclick="CheckAnswer">Check</button>
+<p>@feedback</p>
+
+@code {
+  string answer = "";
+  string feedback = "";
+
+  void CheckAnswer() {
+    feedback = answer.ToLower() == "works" ? "✅ Correct!" : "❌ The correct answer is 'works'";
+  }
+}

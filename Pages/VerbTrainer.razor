@@ -1,0 +1,17 @@
+@page "/VerbTrainer"
+<h2>🧠 Verb Trainer - Week 1</h2>
+<p>Conjugate the verb <strong>to lead</strong> in past simple:</p>
+<input @bind="userAnswer" placeholder="Your answer..." />
+<button @onclick="CheckAnswer">Check</button>
+<p>@feedback</p>
+
+@code {
+  string correctAnswer = "led";
+  string userAnswer = "";
+  string feedback = "";
+
+  void CheckAnswer()
+  {
+    feedback = userAnswer.ToLower() == correctAnswer ? "✅ Correct!" : "❌ It's 'led'";
+  }
+}

@@ -1,0 +1,15 @@
+@page "/Week2"
+<h2>📅 Week 2 - Past Continuous</h2>
+<p>Fill the blank: "I ___ working when you called."</p>
+<input @bind="ans" placeholder="Your answer..." />
+<button @onclick="Check">Check</button>
+<p>@msg</p>
+
+@code {
+  string ans = "";
+  string msg = "";
+
+  void Check() {
+    msg = ans.ToLower() == "was" ? "✅ Correct!" : "❌ The correct answer is 'was'";
+  }
+}
